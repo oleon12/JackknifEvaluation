@@ -82,3 +82,6 @@ for (i in 1:rep){
 try(system("sh toXYD.sh"))
 # JackknifEvaluation
 # JackknifEvaluation
+# UJackknifEvaluation
+# UJackknifEvaluation
+# JackknifEvaluation
